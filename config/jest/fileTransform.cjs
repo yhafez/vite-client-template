@@ -27,7 +27,7 @@ module.exports = {
             $$typeof: Symbol.for('react.element'),
             type: 'svg',
             ref: ref,
-            key: null,
+            key: null, 
             props: Object.assign({}, props, {
               children: ${assetFilename}
             })
