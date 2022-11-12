@@ -5,6 +5,14 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.1.4](https://github.com/yhafez/vite-client-template/compare/v1.1.3...v1.1.4) (2022-11-12)
+
+
+### 🐛 Bug Fixes
+
+* address gh-actions warnings ([f4f0714](https://github.com/yhafez/vite-client-template/commit/f4f07145cea03ae937d5c382e9269ec9f3a469a8))
+* address gh-actions warnings ([b988e5b](https://github.com/yhafez/vite-client-template/commit/b988e5b9db04ff503cfe9968cf9c48dce4878bae))
+
 ### [1.1.3](https://github.com/yhafez/vite-client-template/compare/v1.1.2...v1.1.3) (2022-11-12)
 
 
