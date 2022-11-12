@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.1.2](https://github.com/yhafez/vite-client-template/compare/v1.1.1...v1.1.2) (2022-11-12)
+
+
+### 🐛 Bug Fixes
+
+* fix storybook ([0dddf80](https://github.com/yhafez/vite-client-template/commit/0dddf80ba3b77e37c62684c4a61775c86600521f))
+
 ### [1.1.1](https://github.com/yhafez/vite-client-template/compare/v1.1.0...v1.1.1) (2022-08-29)
 
 
